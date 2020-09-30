@@ -1,0 +1,5 @@
+a=int(input("Introdu numarul de de oua pe care il face prima gaina intr-o zi:"))
+b=int(input("Introdu numarul de de oua pe care il face a doua gaina intr-o zi:"))
+c=int(input("Introdu numarul de de oua pe care il face a treia gaina intr-o zi:"))
+d=int(input("Introdu numarul de de oua pe care il face a patra gaina intr-o zi:"))
+print("Intr-o saptamana, se obtin",(a+b+c+d)*7)
